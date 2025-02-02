@@ -39,7 +39,7 @@ local Settings = {
         
     },
 }
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Pumpuma/UKI/refs/heads/main/vc.txt"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ScrewMaker/yenoMarket/refs/heads/main/Ym"))()
 
 local Window = redzlib:MakeWindow({
   Title = "reflex.club | beta",
